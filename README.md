@@ -13,7 +13,7 @@ ICARB-D brings dental schools and researchers together to **measure, build and s
 
 **Dr. Igor Lemos Alves**: DDS (UFBA, Brazil) · Residency in Social Medicine and Family Health (ISC/UFBA, Brazil) · Specialist in Geographic Information Systems (UnB, Brazil) · Software Development and Information Management (College, Canada) · Graduate studies in Bioinformatics (UQAM, Canada)
 
-**Dr. Wander Kobayashi**: Specialization in Oral and Maxillofacial Surgery and Traumatology (SOESP, 2014) · Master's Degree in Implant Dentistry (UNISA, 2007) · Specialization in Implant Dentistry (APCD, 2002) · Degree in Dentistry, Bauru School of Dentistry (USP, 1994)
+**Dr. Wander Kobayashi**: DDS (USP, Brazil, 1994) · Specialization in Implant Dentistry (APCD, Brazil, 2002) · Master's Degree in Implant Dentistry (UNISA, Brazil, 2007) · Specialization in Oral and Maxillofacial Surgery and Traumatology (SOESP, Brazil, 2014)
 
 ## The logo
 
