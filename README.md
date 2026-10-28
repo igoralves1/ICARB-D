@@ -7,6 +7,12 @@ ICARB-D brings dental schools and researchers together to **measure, build and s
 - Website: https://igoralves1.github.io/ICARB-D/
 - Questionnaire information page: https://igoralves1.github.io/ICARB-D/form.html
 
+## Founders
+
+**Dr. Marcel Montezuma**: DDS (Brazil) · Master in Oral Science (USA) · Fellowship in Digital Dentistry (USA) · Advanced Education in General Dentistry, AEGD (USA)
+
+**Dr. Igor Lemos Alves**: DDS (Brazil) · Residency in Social Medicine and Family Health (Brazil) · Specialist in Geographic Information Systems (Brazil) · Software Development and Information Management (Canada) · Bioinformatics (Canada)
+
 ## The logo
 
 A tooth (dentistry) whose crown holds a small neural network (AI) and whose roots form a DNA double helix (bioinformatics), set inside a gear (robotics).
