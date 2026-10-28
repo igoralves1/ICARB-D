@@ -144,3 +144,6 @@ footer a { color: var(--muted); }
 .card .credentials { list-style: none; padding: 0; margin: 0; }
 .credentials li { display: flex; flex-direction: column; gap: 2px; padding: 9px 0; border-top: 1px solid var(--border); color: var(--text); font-size: .95rem; line-height: 1.4; }
 .credentials .where { font-size: .8rem; font-weight: 600; letter-spacing: .02em; color: var(--teal); }
+
+.goal { margin-top: 14px; padding: 14px 16px; border-left: 4px solid var(--amber); background: var(--surface); border-radius: 0 10px 10px 0; max-width: 46ch; color: var(--text); }
+.goal strong { color: var(--ink); }

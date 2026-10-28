@@ -19,11 +19,16 @@ ICARB-D brings dental schools and researchers together to **measure, build and s
 
 A tooth (dentistry) whose crown holds a small neural network (AI) and whose roots form a DNA double helix (bioinformatics), set inside a gear (robotics).
 
-## First study (2026): AI Readiness in Dental Schools
+## Main goal
 
-A department- and course-level assessment of AI integration in dental education in Canada, the United States, Brazil, China and India. It covers infrastructure, human resources, AI teaching hours by topic (including programming and model development), generative AI, governance and sustainability.
+ICARB-D is a central point of collaboration for universities and dentists working on AI, robotics and bioinformatics in dentistry. Its main goal is to build a free, open AI model for dentistry through a joint, collaborative effort.
+
+## Annual survey of dental schools (first wave 2026)
+
+Every year, ICARB-D maps the maturity of dental school departments and courses in artificial intelligence, health informatics, robotics and digital dentistry, and bioinformatics: physical resources, human resources, teaching hours by topic, governance, sustainability and capacity to contribute to the open AI model. Canada, the United States, Brazil, China and India take part in the first wave.
 
 - Questionnaire app, codebook and analysis: https://github.com/igoralves1/AI-assessment-DS-2026
+- Every question and what it captures: https://igoralves1.github.io/AI-assessment-DS-2026/#/questions
 - Respondents enter their XXX-XXX access code on the form page; it opens the questionnaire with the code filled in.
 - The research team opens the questionnaire's `#/admin` page with the admin code (kept privately, not in this repository).
 
