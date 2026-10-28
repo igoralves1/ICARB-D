@@ -13,6 +13,8 @@ ICARB-D brings dental schools and researchers together to **measure, build and s
 
 **Dr. Igor Lemos Alves**: DDS (UFBA, Brazil) · Residency in Social Medicine and Family Health (ISC/UFBA, Brazil) · Specialist in Geographic Information Systems (UnB, Brazil) · Software Development and Information Management (College, Canada) · Graduate studies in Bioinformatics (UQAM, Canada)
 
+**Dr. Wander Kobayashi**: Specialization in Oral and Maxillofacial Surgery and Traumatology (SOESP, 2014) · Master's Degree in Implant Dentistry (UNISA, 2007) · Specialization in Implant Dentistry (APCD, 2002) · Degree in Dentistry, Bauru School of Dentistry (USP, 1994)
+
 ## The logo
 
 A tooth (dentistry) whose crown holds a small neural network (AI) and whose roots form a DNA double helix (bioinformatics), set inside a gear (robotics).
