@@ -11,7 +11,7 @@ ICARB-D brings dental schools and researchers together to **measure, build and s
 
 **Dr. Marcel Montezuma**: DDS (Brazil) · Master in Oral Science (USA) · Fellowship in Digital Dentistry (USA) · Advanced Education in General Dentistry, AEGD (USA)
 
-**Dr. Igor Lemos Alves**: DDS (Brazil) · Residency in Social Medicine and Family Health (Brazil) · Specialist in Geographic Information Systems (Brazil) · Software Development and Information Management (Canada) · Bioinformatics (Canada)
+**Dr. Igor Lemos Alves**: DDS (UFBA, Brazil) · Residency in Social Medicine and Family Health (ISC/UFBA, Brazil) · Specialist in Geographic Information Systems (UnB, Brazil) · Software Development and Information Management (College, Canada) · Graduate studies in Bioinformatics (UQAM, Canada)
 
 ## The logo
 
