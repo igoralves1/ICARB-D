@@ -11,7 +11,7 @@ ICARB-D brings dental schools and researchers together to **measure, build and s
 
 **Dr. Marcel Montezuma**: DDS (UNIFOR, Brazil) · Master in Oral Science (University of Rochester, USA) · Fellowship in Digital Dentistry (University of Rochester, USA) · Advanced Education in General Dentistry, AEGD (University of Rochester, USA)
 
-**Dr. Igor Lemos Alves**: DDS (UFBA, Brazil) · Residency in Social Medicine and Family Health (ISC/UFBA, Brazil) · Specialist in Geographic Information Systems (UnB, Brazil) · Software Development and Information Management (College, Canada) · Graduate studies in Bioinformatics (UQAM, Canada)
+**Dr. Igor Lemos Alves**: DDS (UFBA, Brazil, 2000) · Residency in Social Medicine and Family Health (ISC/UFBA, Brazil, 2004) · Specialist in Geographic Information Systems (UnB, Brazil, 2005) · Software Development and Information Management (TECCART College, Canada, 2010) · Graduate studies in Bioinformatics (UQAM, Canada, 2015)
 
 **Dr. Wander Kobayashi**: DDS (USP, Brazil, 1994) · Specialization in Implant Dentistry (APCD, Brazil, 2002) · Master's Degree in Implant Dentistry (UNISA, Brazil, 2007) · Specialization in Oral and Maxillofacial Surgery and Traumatology (SOESP, Brazil, 2014)
 
