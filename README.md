@@ -21,7 +21,7 @@ A tooth (dentistry) whose crown holds a small neural network (AI) and whose root
 
 ## Main goal
 
-ICARB-D is a central point of collaboration for universities and dentists working on AI, robotics and bioinformatics in dentistry. Its main goal is to build a free, open AI model for dentistry through a joint, collaborative effort.
+ICARB-D is an international hub that connects universities and dentists to strengthen and accelerate initiatives in AI, robotics and bioinformatics in dentistry. Its main goal is to build a free dental AI model, through a joint collaborative effort, that can be used across every field of dentistry.
 
 ## Annual survey of dental schools (first wave 2026)
 
