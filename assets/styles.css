@@ -147,3 +147,9 @@ footer a { color: var(--muted); }
 
 .goal { margin-top: 14px; padding: 14px 16px; border-left: 4px solid var(--amber); background: var(--surface); border-radius: 0 10px 10px 0; max-width: 46ch; color: var(--text); }
 .goal strong { color: var(--ink); }
+
+/* Public demonstration code */
+.demo-box { margin: 28px auto 0; padding: 18px 20px; border: 2px dashed #c77d00; border-radius: 14px; background: var(--surface); text-align: left; }
+.demo-box .eyebrow { color: #c77d00; }
+.demo-code { font: 700 1.4rem ui-monospace, Menlo, monospace; letter-spacing: .08em; color: #c77d00; }
+.demo-box .btn { margin-top: 6px; }
